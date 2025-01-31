@@ -1,10 +1,8 @@
-
-
 ## Password Generator  
 
 #### A simple yet powerful **Java** tool for creating secure passwords of any length, with customizable character options  
 
-### 🚀 Features  
+### Features  
 
 - ✅ **Easy to Use** – Just enter your preferences, and get a strong password!  
 - ✏️ **Set Password Length** – Choose any length for your password.  
@@ -15,7 +13,7 @@
 
 The program uses **Java's Random class** to randomly select characters from the chosen sets, ensuring a unique and secure password for every request.  
 
-### 💻 Usage  
+### Usage  
 
 1. Run the Java program.  
 2. Enter the password length.  
