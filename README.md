@@ -8,7 +8,9 @@
 - ✏️ **Set Password Length** – Choose any length for your password.  
 - 🔡 **Customizable Character Sets** – Include **uppercase, lowercase, numbers, and special characters**.  
 - 🔒 **Strong Security** – Generates **random and complex** passwords every time.  
----
+
+-----
+
 ### How It Works  
 
 The program uses **Java's Random class** to randomly select characters from the chosen sets, ensuring a unique and secure password for every request.  
