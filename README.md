@@ -40,3 +40,6 @@ Include Special Characters? (Enter 1 for yes, 0 for no): 1
 Generated Password: ;DV55.?
 ```
 
+---
+
+Feel free to contribute to this project by submitting pull requests or reporting issues! 🚀  
